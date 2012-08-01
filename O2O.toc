@@ -1,0 +1,7 @@
+## Interface: 20400
+## Title: O2O
+## Notes: Minimalistic officer-to-officer chat connector. Usage: /o2o
+## Author: Siarkowy
+## Version: 1.0
+
+O2O.lua
